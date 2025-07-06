@@ -92,7 +92,7 @@ To make it more dynamic, I used the list option to create a drop-down parameter.
 Finally, I created a story using two dashboards, each presenting key insights, and combined them into a single, unified Tableau Story.
 
 You can view the full interactive Tableau Public story here:  
-[View Tableau Story on Tableau Public](https://public.tableau.com/your-dashboard-link)
+[View Tableau Story on Tableau Public](https://public.tableau.com/app/profile/juan.correa./viz/RDAMP-AceSuperstore/AceSuperstoreInsights#1)
 
 ---
 
