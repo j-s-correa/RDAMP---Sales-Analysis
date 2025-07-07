@@ -27,7 +27,16 @@
    - Total Revenue  
    - Profit per Unit  
    - Margin (%)
+     
+6. **Grouped Category for Improved Visualisation**
+Created a "Plain Category" column to consolidate granular categories into broader classes for improved dashboard readability.
 
+- This grouping simplifies segmentation and enhances clarity in Pivot Tables and charts.
+- ![image](https://github.com/user-attachments/assets/1a16f5fe-b9bb-44c0-a06d-18ac5fc51dbf)
+- ![image](https://github.com/user-attachments/assets/64bc61d9-147c-4b2e-835e-7b8a28002c64)
+
+
+  
 ---
 
 ## Analysis & Visualizations
