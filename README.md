@@ -120,8 +120,8 @@ You can view the full interactive Tableau Public story here:
 
 ## 🔗 Project Files & Resources
 
- - 📂 [Juan_Correa Ace Superstore.xlsx](https://github.com/user-attachments/files/21083867/Juan_Correa.Ace.Superstore.xlsx)
- - 📄 [Juan_Correa_Sales_Report.docx](https://github.com/user-attachments/files/21083873/Juan_Correa_Sales_Report.docx)
+ - 📂 [Juan_Correa Ace Superstore.xlsx](https://github.com/user-attachments/files/21105687/Juan_Correa.Ace.Superstore.xlsx)
+ - 📄 [Juan_Correa_Sales_Report.docx](https://github.com/user-attachments/files/21105689/Juan_Correa_Sales_Report.docx)
  - 🌐 [Explore the RDAMP Tableau Dashboard (Live)](https://public.tableau.com/app/profile/juan.correa./viz/RDAMP-AceSuperstore/AceSuperstoreInsights#1)
 
 
