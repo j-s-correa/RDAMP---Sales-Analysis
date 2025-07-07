@@ -81,7 +81,7 @@ Useful for identifying where profit is best, even if sales volume is low.
 
 ### 5. Sales Channel Analysis: Online vs In-Store  
 Created a PivotTable with the percentage of total sales and revenue:
-- Online Sales: 51.50% of total, contributing £8.47M in revenue  
+- Online Sales: 51.50% of the total, contributing £8.47M in revenue  
 - In-Store Sales: 48.50%, contributing £7.96M  
 
 Margins and profitability may differ even if sales volume is similar.
