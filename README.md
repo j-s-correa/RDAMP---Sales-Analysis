@@ -32,7 +32,7 @@
 Created a "Plain Category" column to consolidate granular categories into broader classes for improved dashboard readability.
 
 - This grouping simplifies segmentation and enhances clarity in Pivot Tables and charts.
--!![image](https://github.com/user-attachments/assets/8adbd4c3-ce98-442b-b024-45af37a266e4)
+-![image](https://github.com/user-attachments/assets/8adbd4c3-ce98-442b-b024-45af37a266e4)
 -![image](https://github.com/user-attachments/assets/64bc61d9-147c-4b2e-835e-7b8a28002c64)
   
 ---
