@@ -88,15 +88,47 @@ Margins and profitability may differ even if sales volume is similar.
 
 ---
 
-## Interactive Dashboard Logic
+**Tableau Sales & Revenue Analysis Dashboards**
 
-To make it more dynamic, I used the list option to create a drop-down parameter. Once the calculated field was created and linked to the parameter, I applied a filter where the condition returns “True” based on the selected dropdown value. Then, by dragging Country and Category into the view, we can display only the top revenue results.
+This repository contains a collection of interactive Tableau dashboards designed to analyse sales, cost, and revenue performance across various dimensions such as product category, region, and order mode. The dashboards are structured to provide actionable insights and enable dynamic user interaction via parameter-driven filters and top-N selectors.
+
+**Interactive Logic**
+
+To enhance interactivity, a drop-down parameter was implemented using Tableau's List option. A corresponding calculated field evaluates to `TRUE` based on the selected parameter value, and this field is applied as a filter across views. This approach allows users to dynamically filter for the Top N results (e.g., top countries, categories, or products) based on revenue or other KPIs.
+
+**Dashboards Included**
+
+**Dashboard 1 – Sales Performance Summary**
+
+- Displays key sales KPIs  
+- Highlights the Top N best-selling products  
+- Shows revenue distribution by country  
+- Offers a high-level view of product and geographic performance
+
+**Dashboard 2 – Cost, Sales & YoY Revenue Comparison**
+
+- Compares total costs vs. sales  
+- Breaks down Year-over-Year (YoY) revenue by category  
+- Interactive filters enable exploration of profitability trends by category  
+- Ideal for identifying cost-efficiency and revenue growth patterns
+
+**Dashboard 3 – Revenue by Category and Order Mode**
+
+- Shows revenue breakdown by product category and order mode  
+- Includes a Top N selector for focused insights  
+- Helps evaluate channel effectiveness and category performance
+
+**Dashboard 4 – Revenue by Country and Region**
+
+- Visualises revenue by geographic region and country  
+- Displays total cost, average discount, and revenue breakdown by category  
+- Includes a Top N filter for drilling into the most impactful areas
 
 ---
 
 ## Final Presentation
 
-Finally, I created a story using three dashboards, each presenting key insights, and combined them into a single, unified Tableau Story.
+Finally, I created a story using four dashboards, each presenting key insights, and combined them into a single, unified Tableau Story.
 
 You can view the full interactive Tableau Public story here:  
 [View Tableau Story on Tableau Public](https://public.tableau.com/app/profile/juan.correa./viz/RDAMP-AceSuperstore/AceSuperstoreInsights#1)
@@ -119,8 +151,8 @@ You can view the full interactive Tableau Public story here:
 
 ## 🔗 Project Files & Resources
 
- - 📂 [Juan_Correa Ace Superstore.xlsx](https://github.com/user-attachments/files/21105687/Juan_Correa.Ace.Superstore.xlsx)
- - 📄 [Juan_Correa_Sales_Report.docx](https://github.com/user-attachments/files/21105689/Juan_Correa_Sales_Report.docx)
+ - 📂 [Juan_Correa Ace Superstore.xlsx](https://github.com/user-attachments/files/21122916/Juan_Correa.Ace.Superstore.xlsx)
+ - 📄 [Juan_Correa_Sales_Report.docx](https://github.com/user-attachments/files/21122915/Juan_Correa_Sales_Report.docx)
  - 🌐 [Explore the RDAMP Tableau Dashboard (Live)](https://public.tableau.com/app/profile/juan.correa./viz/RDAMP-AceSuperstore/AceSuperstoreInsights#1)
 
 
