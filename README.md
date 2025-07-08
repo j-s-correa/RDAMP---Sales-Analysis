@@ -81,7 +81,7 @@ Useful for identifying where profit is best, even if sales volume is low.
 
 ### 5. Sales Channel Analysis: Online vs In-Store  
 Created a PivotTable with the percentage of total sales and revenue:
-- Online Sales: 51.50% of the total, contributing £8.47M in revenue  
+- Online Sales: 51.50% of the total, contributing £8.47M in revenue 
 - In-Store Sales: 48.50%, contributing £7.96M  
 
 Margins and profitability may differ even if sales volume is similar.
@@ -96,7 +96,7 @@ To make it more dynamic, I used the list option to create a drop-down parameter.
 
 ## Final Presentation
 
-Finally, I created a story using two dashboards, each presenting key insights, and combined them into a single, unified Tableau Story.
+Finally, I created a story using three dashboards, each presenting key insights, and combined them into a single, unified Tableau Story.
 
 You can view the full interactive Tableau Public story here:  
 [View Tableau Story on Tableau Public](https://public.tableau.com/app/profile/juan.correa./viz/RDAMP-AceSuperstore/AceSuperstoreInsights#1)
@@ -105,18 +105,17 @@ You can view the full interactive Tableau Public story here:
 
 ## Tools Used
 
-- Excel: For data cleaning, VLOOKUP correction, pivot analysis, and formula-based feature creation  
-- Tableau: For dynamic visualisation, interactive dashboards, and storytelling  
-- Python: Considered for automation or advanced ETL steps in future phases
+- Excel: For data cleaning, VLOOKUP correction, pivot analysis, and formula-based feature creation.  
+- Tableau: For dynamic visualisation, interactive dashboards, and storytelling.  
+- Python: Considered for automation or advanced ETL steps in future phases.
 
 ---
 
 ## Files Included
 
-- Cleaned Excel dataset with calculated fields  
-- Tableau workbook (.twbx)  
-- Screenshots of key dashboards and visualisations  
-- Link to Tableau Public Storyboard  
+- Cleaned Excel dataset with calculated fields.   
+- Text file with the steps carried out and screenshots of key dashboards and visualisations. 
+- Link to Tableau Public Storyboard. 
 
 ## 🔗 Project Files & Resources
 
